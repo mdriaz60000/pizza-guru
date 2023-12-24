@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Margherita Pizza",
+        "title": "Classic Margherita",
+        "likecount": "250",
+        "sharedbtn": "true",
+        "img": "margherita.jpg",
+        "price": "9.99",
+        "rating": "4.7"
+    },
+    {
+        "id": "2",
+        "name": "Pepperoni Pizza",
+        "title": "Spicy Pepperoni Delight",
+        "likecount": "300",
+        "sharedbtn": "false",
+        "img": "pepperoni.jpg",
+        "price": "11.99",
+        "rating": "4.9"
+    },
+    {
+        "id": "3",
+        "name": "Vegetarian Pizza",
+        "title": "Garden Fresh Veggie Delight",
+        "likecount": "200",
+        "sharedbtn": "true",
+        "img": "vegetarian.jpg",
+        "price": "10.99",
+        "rating": "4.5"
+    },
+    {
+        "id": "4",
+        "name": "BBQ Chicken Pizza",
+        "title": "Smokey BBQ Chicken Feast",
+        "likecount": "180",
+        "sharedbtn": "true",
+        "img": "bbq_chicken.jpg",
+        "price": "12.99",
+        "rating": "4.6"
+    },
+    {
+        "id": "5",
+        "name": "Hawaiian Pizza",
+        "title": "Tropical Hawaiian Escape",
+        "likecount": "220",
+        "sharedbtn": "false",
+        "img": "hawaiian.jpg",
+        "price": "13.99",
+        "rating": "4.4"
+    },
+    {
+        "id": "6",
+        "name": "Supreme Pizza",
+        "title": "Ultimate Supreme Extravaganza",
+        "likecount": "280",
+        "sharedbtn": "true",
+        "img": "supreme.jpg",
+        "price": "14.99",
+        "rating": "4.8"
+    },
+    {
+        "id": "7",
+        "name": "Mushroom Pizza",
+        "title": "Mushroom Medley Sensation",
+        "likecount": "150",
+        "sharedbtn": "false",
+        "img": "mushroom.jpg",
+        "price": "11.49",
+        "rating": "4.3"
+    },
+    {
+        "id": "8",
+        "name": "Meat Lover's Pizza",
+        "title": "Carnivore's Delight",
+        "likecount": "350",
+        "sharedbtn": "true",
+        "img": "meat_lovers.jpg",
+        "price": "15.99",
+        "rating": "4.9"
+    },
+    {
+        "id": "9",
+        "name": "Vegan Pizza",
+        "title": "Plant-Based Vegan Paradise",
+        "likecount": "120",
+        "sharedbtn": "false",
+        "img": "vegan.jpg",
+        "price": "12.49",
+        "rating": "4.2"
+    }
+]
