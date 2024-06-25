@@ -1,4 +1,4 @@
-### DEMO https://quiz-app-peach-chi.vercel.app/
+### DEMO https://lovely-platypus-fdf035.netlify.app/
 # OVERVIEW
 ### pizza guru  is a online platform
  1.home dailibary
